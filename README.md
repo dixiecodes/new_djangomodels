@@ -1,4 +1,4 @@
 # new_djangomodels
 
-![Django Models Assignment_New Run Through](admin_models_app.png)
+![Django Models Assignment_New Run Through](admin__models_app.png)
 
